@@ -75,13 +75,8 @@ export const HomeText = styled.p`
 
   background: linear-gradient(
     90deg,
-    #14471E,
-    #68904D,
-    #C8D2D1,
-    #EE9B01,
-    #DA6A00,
-    #ff00c4,
-    #ff0000
+    #FFD600,
+    #115588,
   );
 
   -webkit-text-fill-color: transparent;
