@@ -75,8 +75,13 @@ export const HomeText = styled.p`
 
   background: linear-gradient(
     90deg,
-    #FFD600,
-    #115588,
+    #ff0000,
+    #ffff00,
+    #008000,
+    #ff00f3,
+    #0033ff,
+    #085489,
+    #FFD700
   );
 
   -webkit-text-fill-color: transparent;
@@ -94,6 +99,6 @@ export const HomeText = styled.p`
   }
 
   :hover {
-    animation-play-state: paused;
+    animation-play-state: revert;
   }
 `;
