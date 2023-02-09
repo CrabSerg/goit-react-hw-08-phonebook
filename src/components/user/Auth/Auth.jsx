@@ -4,7 +4,7 @@ export const Auth = () => {
   return (
     <div>
       <Container>
-        <LinkIn to="/login">Sign in</LinkIn>
+        <LinkIn to="/login">Login</LinkIn>
         <LinkUp to="/register">Sign up</LinkUp>
       </Container>
     </div>

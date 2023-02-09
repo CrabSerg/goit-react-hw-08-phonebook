@@ -37,7 +37,7 @@ export const RegisterInput = styled.input`
 
   &:hover,
   &:focus {
-    border: 2px solid #9400d3;
+    border: 2px solid #f1c232;
   }
 `;
 
@@ -49,13 +49,13 @@ export const RegisterBtn = styled.button`
   margin: 8px auto 0px;
   border: none;
   font-size: 16px;
-  background-color: #9400d3;
+  background-color: #e69138;
   color: white;
   transition: background-color 300ms linear;
 
   &:hover,
   &:focus {
-    background-color: #0033ff;
+    background-color: #f1c232;
   }
 
   @media screen and (min-width: 768px) {

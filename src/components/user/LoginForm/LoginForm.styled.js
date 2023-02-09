@@ -37,7 +37,7 @@ export const LoginInput = styled.input`
 
   &:hover,
   &:focus {
-    border: 2px solid #b5ff44;
+    border: 2px solid #f1c232;
   }
 `;
 
@@ -49,12 +49,12 @@ export const LoginBtn = styled.button`
   margin: 8px auto 0px;
   border: none;
   font-size: 16px;
-  background-color: #b5ff44;
+  background-color: #e69138;
   transition: background-color 300ms linear;
 
   &:hover,
   &:focus {
-    background-color: #32cd32;
+    background-color: #f1c232;
   }
 
   @media screen and (min-width: 768px) {

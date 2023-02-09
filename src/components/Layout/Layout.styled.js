@@ -75,11 +75,11 @@ export const HomeText = styled.p`
 
   background: linear-gradient(
     90deg,
-    #ff0000,
-    #ffff00,
-    #008000,
-    #ff00f3,
-    #0033ff,
+    #14471E,
+    #68904D,
+    #C8D2D1,
+    #EE9B01,
+    #DA6A00,
     #ff00c4,
     #ff0000
   );

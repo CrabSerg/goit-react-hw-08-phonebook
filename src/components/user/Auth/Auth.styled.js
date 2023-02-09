@@ -15,8 +15,8 @@ export const LinkUp = styled(NavLink)`
   color: white;
   text-decoration: none;
   padding: 8px 9px;
-  border-radius: 30px;
-  background: linear-gradient(90deg, #ff00f3, #0033ff);
+  border-radius: 10px;
+  background: linear-gradient(90deg, #fdf700, #0075df);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
   transition: box-shadow 250ms linear;
 
@@ -46,7 +46,7 @@ export const LinkIn = styled(NavLink)`
   color: black;
   text-decoration: none;
   padding: 8px 9px;
-  border-radius: 30px;
+  border-radius: 10px;
 
   @media screen and (max-width: 767px) {
     margin-bottom: 8px;
@@ -56,7 +56,7 @@ export const LinkIn = styled(NavLink)`
     margin-right: 12px;
   }
 
-  background: linear-gradient(90deg, #008000, #ffff00);
+  background: linear-gradient(90deg, #0075df, #fdf700);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
   transition: box-shadow 250ms linear;
 

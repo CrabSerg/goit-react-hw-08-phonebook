@@ -54,7 +54,7 @@ export const LoginForm = () => {
           Password
           <LoginInput type="password" name="password" />
         </LoginLabel>
-        <LoginBtn type="submit">Sign in</LoginBtn>
+        <LoginBtn type="submit">Login</LoginBtn>
       </Form>
     </Box>
   );

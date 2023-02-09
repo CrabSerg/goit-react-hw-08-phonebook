@@ -5,9 +5,9 @@ export const HomeText = styled.h1`
   font-weight: 600;
   text-align: center;
   margin: auto;
-  color: #ffd966;
+  color: #4fc41c;
 
-  animation-duration: 3s;
+  
   animation-name: slidein;
 
   @keyframes slidein {
