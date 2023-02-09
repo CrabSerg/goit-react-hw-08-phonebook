@@ -5,7 +5,7 @@ export const HomeText = styled.h1`
   font-weight: 600;
   text-align: center;
   margin: auto;
-  color: #0000cc;
+  color: #ffd966;
 
   animation-duration: 3s;
   animation-name: slidein;

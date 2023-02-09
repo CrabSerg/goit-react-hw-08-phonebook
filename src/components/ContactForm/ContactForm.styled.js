@@ -58,12 +58,12 @@ export const AddBtn = styled.button`
   margin: 8px auto 0px;
   border: none;
   font-size: 16px;
-  background-color: #3cd03c;
+  background-color: #456afa;
   transition: background-color 300ms linear;
 
   &:hover,
   &:focus {
-    background-color: #198d19;
+    background-color: #f1c232;
   }
 
   @media screen and (min-width: 768px) {
